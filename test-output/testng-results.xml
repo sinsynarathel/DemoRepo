@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34973" started-at="2018-03-30T17:56:07Z" finished-at="2018-03-30T17:56:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34973" started-at="2018-03-30T17:56:07Z" finished-at="2018-03-30T17:56:42Z">
+      <class name="com.test.FreeCRMExample.FreeCRMTest1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.FreeCRMExample.FreeCRMTest1@1593948d]" name="setUp" is-config="true" duration-ms="16185" started-at="2018-03-30T23:26:07Z" finished-at="2018-03-30T23:26:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyFreeCRMLogin()[pri:0, instance:com.test.FreeCRMExample.FreeCRMTest1@1593948d]" name="verifyFreeCRMLogin" duration-ms="16555" started-at="2018-03-30T23:26:23Z" finished-at="2018-03-30T23:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFreeCRMLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.FreeCRMExample.FreeCRMTest1@1593948d]" name="tearDown" is-config="true" duration-ms="2203" started-at="2018-03-30T23:26:40Z" finished-at="2018-03-30T23:26:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.FreeCRMExample.FreeCRMTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
